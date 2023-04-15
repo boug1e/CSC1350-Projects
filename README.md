@@ -1,3 +1,2 @@
 # CSC1350-Projects
-This is spring 2023 semester CSC1350 projects
-Includes all labs done throughout the course
+File includes all of my projects from CSC1350.
